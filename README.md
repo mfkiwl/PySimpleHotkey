@@ -24,6 +24,9 @@ The system tray code is from the [psgtray](https://github.com/PySimpleGUI/psgtra
 The 2 utilities that are in the folder DocstringTools are the reason this little project was started.  These tools use the clipboard as input and write back onto the clipboard the results.
 
 
+![PySimpleHotkey](https://user-images.githubusercontent.com/46163555/126043935-5f254bf6-beec-4016-af81-56c7a1261855.gif)
+
+
 # Docstring Utilities
 
 The reason that a hotkey was needed in the first place was a conveinent way to launch a couple of simple utilities that operate on the clipboard.  They both read the clipboard, look for a doctring, modify the docstring, and save the result back onto the clipboard.
@@ -173,11 +176,11 @@ mike from PySimpleGUI.org
 
 ## Contributing
 
-Like the PySimpleGUI project, the psgtray project is currently licensed under an open-source license, the project itself is structured like a proprietary product. Pull Requests are not accepted.
+Like the PySimpleGUI project, the PySimpleHotkey project is currently licensed under an open-source license, the project itself is structured like a proprietary product. Pull Requests are not accepted.
 
 ## License
 
-GNU Lesser General Public License (LGPL 3) +
+GNU Lesser General Public License (LGPL 3)
 
 ## Copyright
 
